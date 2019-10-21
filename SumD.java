@@ -3,6 +3,7 @@ package digit;
 public class SumD {
 	
 	int sum=0;
+	//comment added
 	public int fun(int a)
 	{
 		while (a!=0)
